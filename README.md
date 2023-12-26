@@ -184,6 +184,13 @@
 
 <br>
 
+- 닉네임, 비밀번호 변경이 가능하다
+- 변경할 비밀번호가 일치하지 않으면 에러 메시지를 출력한다.
+
+<br>
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/8f9d1d02-3abd-4672-ada6-f7363e3b9d39)
+
+
 </details>
 
 
