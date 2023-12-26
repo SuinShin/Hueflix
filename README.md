@@ -214,9 +214,22 @@
 </details>
 
 
-
-
 ## 영화 상세 정보
+
+<details>
+<summary>접기/펼치기</summary>
+
+<br>
+
+- 해당 영화의 원하는 정보를 각 탭에 들어가서 열람할 수 있다.
+- TMDB에서 해당 영화의 아이디를 이용해서 정보를 받아온다.
+- 영상과 스틸 컷은 TMDB에서 제공하지 않아, KMDB API를 이용하였다.
+
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/38848e88-6850-489d-b7aa-afbd00c0920c)
+
+</details>
+
+
 
 ## 공지사항 게시판
 
