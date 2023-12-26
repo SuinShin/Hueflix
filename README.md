@@ -77,7 +77,9 @@
 - JavaScript Ajax함수를 사용하여 TMDB API의 데이터를 요청하였다.
 - API에서 반환한 JSON형식의 데이터를 받아와 처리하였다.
 <br><br>
+
 ![image](https://github.com/SuinShin/Hueflix/assets/148019115/a58e2512-e1c4-481a-ba3d-e975635931ac)
+
 <br><br>
 - 해상도 별로 슬라이드의 갯수와 폰트 사이즈를 조정하여 반응형 웹을 구현했다.
 <br>
