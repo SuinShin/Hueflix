@@ -1,6 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:,100:030303&height=120&text=Hueflix&animation=&fontColor=ffffff&fontSize=70" />
 </div>
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/a440f894-eb3c-43ca-91db-a089a358c420)
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
