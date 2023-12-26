@@ -282,4 +282,16 @@
 
 ## 키워드 검색(영화, 영화인)
 
+<details>
+<summary>접기/펼치기</summary>
+
+<br>
+
+- 검색창의 입력 문자열을 검색 API를 통해 각 영화, 영화인을 검색할 수 있음.
+- 검색 결과에 출력되는 영화 포스터를 클릭하면 해당 영화 상세정보로 이동.
+
+![검색창](https://github.com/SuinShin/Hueflix/assets/148019115/aa9c15e2-513b-41ca-acc1-16cdbcaa1b11)
+
+</details>
+
 ## 📓소감
