@@ -93,11 +93,9 @@
 <img src="https://github.com/SuinShin/Hueflix/assets/148019115/57351974-80f8-4c35-9265-68d968cfacaa" width="300" height="1000">
 <img src="https://github.com/SuinShin/Hueflix/assets/148019115/d2cf7595-ccd3-48aa-bd29-5ec1d4503a2d" width="700" height="1000">
 
-<br>
+<br><br>
 
 - 영화 포스터에 마우스 오버를 하면 영화의 간단한 정보가 표시된다.
-
-<br>
 
 ![image](https://github.com/SuinShin/Hueflix/assets/148019115/c4361298-9375-4372-84fb-c8b5f9aa9d10)
 
