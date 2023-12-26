@@ -227,6 +227,15 @@
 
 ![image](https://github.com/SuinShin/Hueflix/assets/148019115/38848e88-6850-489d-b7aa-afbd00c0920c)
 
+<br>
+
+- 현재 상영중일 경우, 상영중 뱃지를 표시한다.
+- 평점은 TMDB의 유저 평점이다.
+- 출연진은 배열 데이터로 받아오는데, 0~1 인덱스는 주연 탭에, 나머지는 출연 탭에 표시하였다.
+
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/6f5bfc1c-3200-4dca-bf23-b68cbe07b14a)
+
+
 </details>
 
 
