@@ -133,9 +133,21 @@
 
 <img src="https://github.com/SuinShin/Hueflix/assets/148019115/e968a634-d065-45b6-b73b-56e27d1c2fca" width="500" height="auto">
 
+<br><br>
+
+- 회원가입 버튼은 입력 폼이 하나라도 null이거나, 에러 메시지가 표시될 시 비활성화 상태이다.
+- 간단한 유효성 검사를 추가하였다.
+    - 아이디가 이메일 형식이 아닐 경우 경고 메시지가 출력된다.
+    - 중복 아이디, 닉네임이 존재할 경우 경고 메시지가 출력된다.
+    - 비밀번호 입력란과 확인란이 일치하지 않을 경우 경고 메시지가 출력된다.
+
 <br>
 
-
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/0bc15de0-d902-4739-8a1e-c7859effbcca)
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/b8117368-ef5c-4d67-a9fe-1e3991b5eee9)
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/c2491caa-343e-40b1-84f8-48a4ae01f840)
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/2595fc49-a1e5-4deb-a6a6-601ebfe8953d)
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/942da937-729d-458d-b3bf-34bd09c0c8e2)
 
 </details>
 
