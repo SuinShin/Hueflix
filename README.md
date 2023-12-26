@@ -117,10 +117,12 @@
 <img src="https://github.com/SuinShin/Hueflix/assets/148019115/b19148c4-4f63-4a6d-82f6-c730688edc3c" width="500" height="auto">
 <img src="https://github.com/SuinShin/Hueflix/assets/148019115/6e6eb01c-11e2-4a65-8f04-4a4d44f790a3" width="500" height="auto">
 
-<br>
+<br><br>
 
 - Spring Security를 이용하여 회원가입, 로그인을 구현했다.
 - Spring Security에서 지원해주는 BCryptPasswordEncoder를 이용해 회원 비밀번호를 암호화했다.
+
+<br>
 
 ![image](https://github.com/SuinShin/Hueflix/assets/148019115/c0d6e890-8f0f-4785-8b4c-fd145d9418ec)
 
