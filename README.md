@@ -208,7 +208,8 @@
 
 <br>
 
-<img src="https://github.com/SuinShin/Hueflix/assets/148019115/25344090-b7ce-4a90-9b8e-f0c28befb0c1" width="700" height="auto">
+<img src="https://github.com/SuinShin/Hueflix/assets/148019115/25344090-b7ce-4a90-9b8e-f0c28befb0c1" width="500" height="auto">
+<img src="https://github.com/SuinShin/Hueflix/assets/148019115/468467c0-7d36-4755-8a0c-5e7366f34267" width="500" height="auto">
 
 </details>
 
