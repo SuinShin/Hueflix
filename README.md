@@ -61,6 +61,9 @@
 
 - DB ERD 설계
 
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/48569f67-e6cf-421c-8328-8a4e334d8bb6)
+
+
 ## 🖥화면 별 기능 설명
 
 
