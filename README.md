@@ -243,9 +243,8 @@
 - 댓글과 함께 해당 영화의 별점을 매길 수 있다.
 - 관리자는 댓글 옆에 삭제 버튼이 활성화된다.
 
-![그림1](https://github.com/SuinShin/Hueflix/assets/148019115/20b57b0b-0d99-4d6d-94c1-ce70e1b36fed)
-![그림2](https://github.com/SuinShin/Hueflix/assets/148019115/7bc1817c-562f-42ba-8a20-29639ac9630d)
-
+![댓글작성(사용자)](https://github.com/SuinShin/Hueflix/assets/148019115/c75c7390-b03b-4e29-a3db-da28e5d4f558)
+![댓글작성(관리자)](https://github.com/SuinShin/Hueflix/assets/148019115/4bbb1388-488b-4a0d-af55-c1e24736a1b2)
 
 </details>
 
