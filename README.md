@@ -236,9 +236,16 @@
 ![image](https://github.com/SuinShin/Hueflix/assets/148019115/6f5bfc1c-3200-4dca-bf23-b68cbe07b14a)
 ![image](https://github.com/SuinShin/Hueflix/assets/148019115/056ca21c-d4bd-40a7-ba67-e006d7db014c)
 
+<br>
+
+- Spring Security에서 로그인 된 유저의 정보를 Controller에서 키-값 쌍으로 데이터 전달.
+- 로그인 된 유저의 닉네임 정보를 자동으로 받아와서 입력.
+- 댓글과 함께 해당 영화의 별점을 매길 수 있다.
+- 관리자는 댓글 옆에 삭제 버튼이 활성화된다.
+
+![그림1](https://github.com/SuinShin/Hueflix/assets/148019115/20b57b0b-0d99-4d6d-94c1-ce70e1b36fed)
 
 </details>
-
 
 
 ## 공지사항 게시판
