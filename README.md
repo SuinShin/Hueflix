@@ -77,12 +77,13 @@
 - Swiper.js를 이용하여, 각 섹션별 영화의 정보와 랭킹을 TMDB에서 받아와 동적으로 슬라이드에 삽입하였다.
 - JavaScript Ajax함수를 사용하여 TMDB API의 데이터를 요청하였다.
 - API에서 반환한 JSON형식의 데이터를 받아와 처리하였다.
+- 포스터를 클릭하면 해당 영화의 상세 정보 창으로 이동한다.
 
 <br>
 
 ![image](https://github.com/SuinShin/Hueflix/assets/148019115/a58e2512-e1c4-481a-ba3d-e975635931ac)
 
-<br><br>
+<br>
 
 - 해상도 별로 슬라이드의 갯수와 폰트 사이즈를 조정하여 반응형 웹을 구현했다.
 
@@ -92,10 +93,10 @@
     
     <summary>해상도 별 슬라이드 갯수 조정</summary>
     
-    - 화면 해상도에 따라 최소 2개 ~ 최대 7개 사이로 슬라이드 갯수가 동적으로 조정된다.
-    
-    ![image](https://github.com/SuinShin/Hueflix/assets/148019115/57351974-80f8-4c35-9265-68d968cfacaa)
-    ![image](https://github.com/SuinShin/Hueflix/assets/148019115/d2cf7595-ccd3-48aa-bd29-5ec1d4503a2d)
+        - 화면 해상도에 따라 최소 2개 ~ 최대 7개 사이로 슬라이드 갯수가 동적으로 조정된다.
+        
+        ![image](https://github.com/SuinShin/Hueflix/assets/148019115/57351974-80f8-4c35-9265-68d968cfacaa)
+        ![image](https://github.com/SuinShin/Hueflix/assets/148019115/d2cf7595-ccd3-48aa-bd29-5ec1d4503a2d)
 
     
     </details>
