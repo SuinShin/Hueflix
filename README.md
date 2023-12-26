@@ -90,8 +90,8 @@
 
 <br>
 
-<img src="https://github.com/SuinShin/HR-Project/assets/148019115/57351974-80f8-4c35-9265-68d968cfacaa" width="400" height="auto">
-<img src="https://github.com/SuinShin/HR-Project/assets/148019115/d2cf7595-ccd3-48aa-bd29-5ec1d4503a2d" width="700" height="auto">
+<img src="https://github.com/SuinShin/Hueflix/assets/148019115/57351974-80f8-4c35-9265-68d968cfacaa" width="400" height="auto">
+<img src="https://github.com/SuinShin/Hueflix/assets/148019115/d2cf7595-ccd3-48aa-bd29-5ec1d4503a2d" width="700" height="auto">
 
 <br>
 
