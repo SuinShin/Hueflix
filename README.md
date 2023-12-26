@@ -133,7 +133,7 @@
 
 <br>
 
-![image](https://github.com/SuinShin/Hueflix/assets/148019115/e968a634-d065-45b6-b73b-56e27d1c2fca)
+<img src="https://github.com/SuinShin/Hueflix/assets/148019115/e968a634-d065-45b6-b73b-56e27d1c2fca" width="500" height="auto">
 
 <br>
 
