@@ -195,9 +195,25 @@
 </details>
 
 
-
-
 ## 현재 상영 중, 개봉 예정 메뉴
+
+<details>
+<summary>접기/펼치기</summary>
+
+<br>
+
+- TMDB API를 통해 현재 대한민국 극장에서 상영중인 최신 영화정보, 개봉 예정작을 받아와 표시했다.
+- 영화 포스터를 클릭하면, 해당 영화의 상세 페이지로 이동한다.
+- 마우스 오버를 하면, 간단한 영화의 줄거리가 나온다. (제한 글자수 초과 시 ...로 후략)
+
+<br>
+
+<img src="https://github.com/SuinShin/Hueflix/assets/148019115/25344090-b7ce-4a90-9b8e-f0c28befb0c1" width="700" height="auto">
+
+</details>
+
+
+
 
 ## 영화 상세 정보
 
