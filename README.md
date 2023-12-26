@@ -24,16 +24,17 @@
 
 ## 📌팀 프로젝트 개요
 - 프로젝트 명: HueFlix
+  
 - 일정: 2023년 12월 4일 ~ 2023년 12월 22일
+  
 - 개발 목적: 영화를 좋아하는 사용자들에게 다양한 정보를 제공하기 위한 웹 사이트 제작
+  
 - 개발 환경
-
-Server: Apache-tomcat-9.0.0
-Java EE: Eclipse (version 2023-06)
-Database: Oracle SQL developer
-Language: Java, Jsp, HTML, CSS, JavaScript, SQL, Spring Legacy, mybatis
-Framework: Spring Tool suite 3.9.1
-
+    - Server: Apache-tomcat-9.0.0
+    - Java EE: Eclipse (version 2023-06)
+    - Database: Oracle SQL developer
+    - Language: Java, Jsp, HTML, CSS, JavaScript, SQL, Spring Legacy, mybatis
+    - Framework: Spring Tool suite 3.9.1
 
 ## 🔎프로젝트 내용
 
