@@ -223,7 +223,6 @@
 
 - 해당 영화의 원하는 정보를 각 탭에 들어가서 열람할 수 있다.
 - TMDB에서 해당 영화의 아이디를 이용해서 정보를 받아온다.
-- 영상과 스틸 컷은 TMDB에서 제공하지 않아, KMDB API를 이용하였다.
 
 ![image](https://github.com/SuinShin/Hueflix/assets/148019115/38848e88-6850-489d-b7aa-afbd00c0920c)
 
@@ -232,6 +231,7 @@
 - 현재 상영중일 경우, 상영중 뱃지를 표시한다.
 - 평점은 TMDB의 유저 평점이다.
 - 출연진은 배열 데이터로 받아오는데, 0~1 인덱스는 주연 탭에, 나머지는 출연 탭에 표시하였다.
+- 영상과 스틸 컷은 TMDB에서 제공하지 않아, KMDB API를 이용하였다.
 
 ![image](https://github.com/SuinShin/Hueflix/assets/148019115/6f5bfc1c-3200-4dca-bf23-b68cbe07b14a)
 ![image](https://github.com/SuinShin/Hueflix/assets/148019115/056ca21c-d4bd-40a7-ba67-e006d7db014c)
