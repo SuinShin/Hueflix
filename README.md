@@ -88,8 +88,10 @@
 - 해상도 별로 슬라이드의 갯수와 폰트 사이즈를 조정하여 반응형 웹을 구현했다.
 - 화면 해상도에 따라 최소 2개 ~ 최대 7개 사이로 슬라이드 갯수가 동적으로 조정된다.
 
- ![image](https://github.com/SuinShin/Hueflix/assets/148019115/57351974-80f8-4c35-9265-68d968cfacaa)
- ![image](https://github.com/SuinShin/Hueflix/assets/148019115/d2cf7595-ccd3-48aa-bd29-5ec1d4503a2d)
+<br>
+
+<img src="https://github.com/SuinShin/HR-Project/assets/148019115/57351974-80f8-4c35-9265-68d968cfacaa" width="400" height="auto">
+<img src="https://github.com/SuinShin/HR-Project/assets/148019115/d2cf7595-ccd3-48aa-bd29-5ec1d4503a2d" width="700" height="auto">
 
 <br>
 
