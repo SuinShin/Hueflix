@@ -153,6 +153,20 @@
 
 ## 회원 정보 수정
 
+<details>
+<summary>접기/펼치기</summary>
+
+<br>
+
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/272e9318-cb5c-4f2e-9527-14d728b3ffc9)
+
+<br><br>
+
+</details>
+
+
+
+
 ## 현재 상영 중, 개봉 예정 메뉴
 
 ## 영화 상세 정보
