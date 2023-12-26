@@ -114,9 +114,8 @@
 
 <br>
 
-![image](https://github.com/SuinShin/Hueflix/assets/148019115/b19148c4-4f63-4a6d-82f6-c730688edc3c)
-![image](https://github.com/SuinShin/Hueflix/assets/148019115/6e6eb01c-11e2-4a65-8f04-4a4d44f790a3)
-
+<img src="https://github.com/SuinShin/Hueflix/assets/148019115/b19148c4-4f63-4a6d-82f6-c730688edc3c" width="500" height="auto">
+<img src="https://github.com/SuinShin/Hueflix/assets/148019115/6e6eb01c-11e2-4a65-8f04-4a4d44f790a3" width="500" height="auto">
 
 </details>
 
