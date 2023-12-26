@@ -244,6 +244,8 @@
 - 관리자는 댓글 옆에 삭제 버튼이 활성화된다.
 
 ![그림1](https://github.com/SuinShin/Hueflix/assets/148019115/20b57b0b-0d99-4d6d-94c1-ce70e1b36fed)
+![그림2](https://github.com/SuinShin/Hueflix/assets/148019115/7bc1817c-562f-42ba-8a20-29639ac9630d)
+
 
 </details>
 
