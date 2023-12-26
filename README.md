@@ -165,9 +165,24 @@
 
 ![image](https://github.com/SuinShin/Hueflix/assets/148019115/272e9318-cb5c-4f2e-9527-14d728b3ffc9)
 
-<br><br>
+<br>
 
 - 정보 수정창으로 이동하기 전, 보안을 위해 비밀번호를 다시 확인하는 절차를 갖는다.
+
+<br>
+
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/13f2a1cd-4f59-4f85-bbab-a8c7e7efc45e)
+
+<br>
+
+- 비밀번호가 회원 정보와 일치하지 않을 시, 에러 메시지를 출력한다.
+- BCryptPasswordEncoder로 입력 비밀번호를 변환하여 DB의 비밀번호를 확인한다.
+
+<br>
+
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/6ff6a24c-3efd-4c5f-8352-2710f4337fd0)
+
+<br>
 
 </details>
 
