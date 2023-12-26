@@ -70,7 +70,8 @@
 
 <details>
 <summary>접기/펼치기</summary>
-    
+
+<br><br>
 - 프로젝트를 실행하면 가장 먼저 표시되는 화면인 만큼, 시각적인 요소에 중점을 두었다.
 - Swiper.js를 이용하여, 각 섹션별 영화의 정보와 랭킹을 TMDB에서 받아와 동적으로 슬라이드에 삽입하였다.
 - JavaScript Ajax함수를 사용하여 TMDB API의 데이터를 요청하였다.
@@ -80,6 +81,17 @@
 <br><br>
 - 해상도 별로 슬라이드의 갯수와 폰트 사이즈를 조정하여 반응형 웹을 구현했다.
 <br><br>
+
+<details>
+<summary>해상도 별 슬라이드 갯수 조정</summary>
+
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/48f41b7a-5b61-4993-b72d-83eaaad00fd1)
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/293ac78b-4b60-41f7-89ee-adc4144cd91f)
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/316d94ec-177d-4ef5-9753-0e37af9e5d76)
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/ff6366cc-25f7-42d9-9914-9fdd020c6f79)
+
+
+</details>
 
 </details>
 
