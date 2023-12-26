@@ -234,6 +234,7 @@
 - 출연진은 배열 데이터로 받아오는데, 0~1 인덱스는 주연 탭에, 나머지는 출연 탭에 표시하였다.
 
 ![image](https://github.com/SuinShin/Hueflix/assets/148019115/6f5bfc1c-3200-4dca-bf23-b68cbe07b14a)
+![image](https://github.com/SuinShin/Hueflix/assets/148019115/056ca21c-d4bd-40a7-ba67-e006d7db014c)
 
 
 </details>
