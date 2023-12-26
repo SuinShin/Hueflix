@@ -107,11 +107,18 @@
 </details>
 
 
-
-
 ## 회원가입, 로그인
+
+<details>
+<summary>접기/펼치기</summary>
+
+<br>
+
 ![image](https://github.com/SuinShin/Hueflix/assets/148019115/41af8506-aa43-4aaa-b144-c0ef7c39c743)
 ![image](https://github.com/SuinShin/Hueflix/assets/148019115/fcb7ab15-1779-469a-b224-c9a63b1807a1)
+
+</details>
+
 
 
 ## 회원 정보 수정
