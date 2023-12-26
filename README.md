@@ -38,6 +38,7 @@
     - Database: Oracle SQL developer
     - Language: Java, Jsp, HTML, CSS, JavaScript, SQL, Spring Legacy, mybatis
     - Framework: Spring Tool suite 3.9.1
+    - API: TMDB, KMDB
 
 ## 🔎프로젝트 내용
 
