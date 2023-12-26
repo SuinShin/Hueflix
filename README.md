@@ -131,8 +131,6 @@
 
 - 로그인 시 회원정보가 일치하지 않으면 경고 메시지가 출력된다.
 
-<br>
-
 <img src="https://github.com/SuinShin/Hueflix/assets/148019115/e968a634-d065-45b6-b73b-56e27d1c2fca" width="500" height="auto">
 
 <br>
